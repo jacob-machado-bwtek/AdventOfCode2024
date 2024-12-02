@@ -2,3 +2,8 @@
 *.ilk
 *.obj
 *.pdb
+*.vcxproj
+*.sln
+*.vcxproj.*
+CMakeFiles
+*.cmake 

@@ -135,10 +135,13 @@ vector<string> make_grid_with_border(const vector<string>& input, size_t width, 
     vector<string> grid;
     for (auto i: range(width))
         grid.push_back(blank);     
+
     for (const auto& line: input)
         grid.push_back(extra + line + extra);
+
     for (auto i: range(width))
         grid.push_back(blank);  
+        
     return grid;
 }
 

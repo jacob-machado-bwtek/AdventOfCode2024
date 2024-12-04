@@ -12,6 +12,16 @@
         "span": "cpp",
         "xmemory": "cpp",
         "xutility": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp"
     }
 }

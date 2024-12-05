@@ -22,6 +22,7 @@
         "xhash": "cpp",
         "xtree": "cpp",
         "initializer_list": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "string": "cpp"
     }
 }

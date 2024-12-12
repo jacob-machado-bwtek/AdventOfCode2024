@@ -23,6 +23,10 @@
         "xtree": "cpp",
         "initializer_list": "cpp",
         "regex": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "cstddef": "cpp",
+        "ostream": "cpp",
+        "format": "cpp"
     }
 }
